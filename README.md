@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <a href="https://linkedin.com/in/https://www.linkedin.com/in/shaiknagurbasha/">
+  <a href="https://www.linkedin.com/in/shaiknagurbasha/">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat&logo=linkedin&logoColor=white"/>
   </a>
   <a href="mailto:shaiknagurbasha2002@gmail.com">
@@ -25,7 +25,7 @@
 | Project | Description | Tech |
 |---|---|---|
 | 🔐 [PhishGuard](https://github.com/shaiknagurbasha2002/phishguard-backend) | Real-time phishing URL detection — REST API backend + TypeScript frontend | Java, Spring Boot, TypeScript |
-| 📡 [NetPulse App](https://github.com/shaiknagurbasha2002/netpulse-app) | Network monitoring dashboard with offline-first support and automated reporting | TypeScript, React, PWA |
+| 📡 [NetPulse App](https://network-reporting-offline-app.vercel.app) | Network monitoring dashboard with offline-first support and automated reporting | TypeScript, React, PWA |
 | 🌐 [Network Reporting App](https://github.com/shaiknagurbasha2002/network-reporting-offline-app) | Offline-capable network reporting with local data sync | TypeScript |
 | 🤖 [Titanic Classification](https://github.com/shaiknagurbasha2002/Titanic-Classification) | ML survival prediction model with feature engineering | Python, scikit-learn |
 
