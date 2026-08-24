@@ -24,6 +24,7 @@
 
 | Project | Description | Tech |
 |---|---|---|
+| 📄 [DocChat (RAG)](https://github.com/shaiknagurbasha2002/rag-dochat) | AI-powered document Q&A system — upload PDFs and ask questions in natural language with grounded, cited answers via RAG | Python, FastAPI, React, GPT-4o-mini |
 | 🔐 [PhishGuard](https://github.com/shaiknagurbasha2002/phishguard-backend) | Real-time phishing URL detection — REST API backend + TypeScript frontend | Java, Spring Boot, TypeScript |
 | 📡 [NetPulse App](https://network-reporting-offline-app.vercel.app) | Network monitoring dashboard with offline-first support and automated reporting | TypeScript, React, PWA |
 | 🌐 [Network Reporting App](https://github.com/shaiknagurbasha2002/network-reporting-offline-app) | Offline-capable network reporting with local data sync | TypeScript |
